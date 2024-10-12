@@ -1,4 +1,4 @@
-
+![](https://www.google.com/imgres?q=icons%20background%20image%20programming%20languages&imgurl=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F359-3598627_start-coding-right-away-programming-language-icons-transparent.png&imgrefurl=https%3A%2F%2Fwww.pngkey.com%2Fmaxpic%2Fu2e6w7w7y3u2y3t4%2F&docid=2gtbe4w4koqewM&tbnid=oR_ppIRNrl5jqM&vet=12ahUKEwj5re6Z2oeJAxXeiv0HHcwxPY8QM3oECF0QAA..i&w=3945&h=1157&hcb=2&ved=2ahUKEwj5re6Z2oeJAxXeiv0HHcwxPY8QM3oECF0QAA)
 
 <h1 align="center">Hi <i class="fi fi-ts-circle-small"></i>, I'm Mohamed Boussetta</h1>
 <h3 align="center">A Passionate Backend Developer from Morocco</h3>
@@ -38,8 +38,9 @@
 </p>
 
 
-![](https://badge.mediaplus.ma/greenbinary/mbousset)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medob6&show_icons=true&locale=en&layout=compact" alt="mohamedboussetta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medob6&show_icons=true&locale=en" alt="mohamedboussetta" /></p>
+![](https://badge.mediaplus.ma/greenbinary/mbousset)
