@@ -1,4 +1,6 @@
-![Animated GIF](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU3OTU2NTEsIm5iZiI6MTcyNTc5NTM1MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA4VDExMzU1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5ZGUxNjYzY2VlZTg0NTJhZWMzNGZjNDNiODlhOGM5MjY0MzVkZDM3YWVlMWY0N2FiMTVhNGVhMDZhMTg5MmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.E7hAPOW9QfrGHjZYGJq1BGyCm7AB5EdX0kBLNP2wArg)
+
+![](https://badge.mediaplus.ma/greenbinary/mbousset)
+
 <h1 align="center">Hi <i class="fi fi-ts-circle-small"></i>, I'm Mohamed Boussetta</h1>
 <h3 align="center">A Passionate Backend Developer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
