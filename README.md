@@ -16,7 +16,7 @@
 
 ### About Me:
 
-- 👨‍💻 I’m currently honing my backend skills through the **ALX Software Engineering Program**, studying C at **1337**, and pursuing Software Engineering at **Ibn Zohr University**.
+- 👨‍💻 I’m currently honing my backend skills through the **ALX Software Engineering Program**, studying C at **1337**, and pursuing Software Engineering .
 - 🔭 Exploring new technologies like **Go**, **Python**, and **JavaScript** for backend development.
 - 🌍 Passionate about **climate change awareness**, focusing on rising sea levels' impact on Africa.
 - 📫 Reach me at: **mohamedbousetta601@gmail.com**
