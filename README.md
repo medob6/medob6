@@ -1,8 +1,8 @@
 <!-- Add a header image at the top -->
 <img src="" alt="" style="width:100%; height:auto;">
 
-<h1 align="center">Hi <i class="fi fi-ts-circle-small"></i>, I'm Mohamed Boussetta</h1>
-<h3 align="center">A Passionate Backend Developer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Boussetta</h1>
+<h3 align="center">A Passionate Software Engineer from Morocco</h3>
 
 <!-- Profile GIF image aligned to the right -->
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
@@ -14,17 +14,22 @@
   </a>
 </p>
 
-### About Me:
+---
 
-- 👨‍💻 I’m currently honing my backend skills through the **ALX Software Engineering Program**, studying C at **1337**, and pursuing Software Engineering .
-- 🔭 Exploring new technologies like **Go**, **Python**, and **JavaScript** for backend development.
-- 🌍 Passionate about **climate change awareness**, focusing on rising sea levels' impact on Africa.
-- 📫 Reach me at: **mohamedbousetta601@gmail.com**
-- ⚡ Fun fact: Mastering Golang unlocked my ability to learn other programming languages quickly.
+### 👨‍💻 About Me
+
+- 🎓 Completed the **ALX Backend Engineering Program** and currently in the final stages of **1337 (42 Network)**.
+- 💻 Skilled in **low-level programming** with strong experience in **C, C++**, memory management, pointers, algorithms, and debugging.
+- 🌐 Proficient in **front-end development** (HTML, CSS, JavaScript) and building clean responsive interfaces.
+- 💡 The **1337 curriculum** gave me solid fundamentals in algorithms, Unix, system programming, problem-solving, teamwork, and clean code — a foundation that makes learning any new technology easier.
+- 🔭 Focused on backend development, building APIs and exploring **Go**, **Python**, and JavaScript runtimes.
+- 📦 Currently building my **portfolio** and preparing for software engineering internships and future opportunities.
+- 📫 Contact: **mohamedboussetta601@gmail.com**
+- ⚡ Fun fact: Once I mastered **Golang**, learning new programming languages became much faster and more intuitive.
 
 ---
 
-### Connect with me:
+### 🤝 Connect with Me
 
 <p>
   <a href="https://x.com/Mohamed30155499" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"></a>
@@ -34,7 +39,7 @@
 
 ---
 
-### Languages and Tools:
+### 🛠️ Languages & Tools
 
 <p>
   <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
@@ -49,7 +54,7 @@
 
 ---
 
-### GitHub Stats:
+### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medob6&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
@@ -62,3 +67,10 @@
 <p>
   <img src="https://badge.mediaplus.ma/greenbinary/mbousset" alt="42 Network Badge"/>
 </p>
+
+---
+
+### 💬 Quick Note
+> “The journey through ALX and 1337 taught me that consistency beats talent. I’m now building my path toward impactful software engineering roles and projects that make a difference.”
+
+---
