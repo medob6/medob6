@@ -73,7 +73,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=medob6&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medob6&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medob6&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
