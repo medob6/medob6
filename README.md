@@ -27,7 +27,7 @@
 - 🎓 Completed the **ALX Backend Engineering Program** and currently in the final stages of **1337 (42 Network)**.
 - 💻 Skilled in **low-level programming** with strong experience in **C, C++**, memory management, pointers, algorithms, and debugging.
 - 🌐 Proficient in **front-end development** (HTML, CSS, JavaScript) and building clean responsive interfaces.
-- 💡 The **1337 curriculum** gave me solid fundamentals in algorithms, Unix, system programming, problem-solving, teamwork, and clean code — a foundation that makes learning any new technology easier.
+- 💡 The **1337 curriculum** gave me solid fundamentals in algorithms, Unix, system programming, problem-solving, teamwork, and clean code — a foundation that makes learning any new technology
 - 🔭 Focused on backend development, building APIs and exploring **Go**, **Python**, and JavaScript runtimes.
 - 📦 Currently building my **portfolio** and preparing for software engineering internships and future opportunities.
 - 📫 Contact: **mohamedboussetta601@gmail.com**
@@ -60,7 +60,7 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
@@ -68,12 +68,16 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medob6&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+<!-- If the cards are not showing, it's often because the service is rate-limiting.
+     Adding a theme + cache_seconds tends to help, and using pinned width improves layout. -->
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=medob6&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medob6&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=medob6&show_icons=true&locale=en" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=medob6&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p>
