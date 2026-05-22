@@ -18,7 +18,7 @@
 
 ### About
 
-Full-Stack Developer with a strong foundation in software engineering, built through the **ALX Backend Engineering Programme** and **1337 School** (part of the global 42 Network — one of the most selective engineering schools in Africa).
+Software Engineer with a strong foundation in Full-Stack Developement, built through the **ALX Backend Engineering Programme** and **1337 School** (part of the global 42 Network — one of the most selective engineering schools in The world).
 
 At ALX, I designed and shipped a fully functional e-commerce platform using Python, Django, and MySQL. At 1337, I studied software engineering fundamentals — low-level programming in C and C++, algorithms, memory management, Unix systems, Docker, and network engineering. I am currently completing the final project of the 1337 Common Core.
 
