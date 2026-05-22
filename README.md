@@ -16,12 +16,9 @@
 
 ### About
 
-Software Engineer with a strong foundation in Full-Stack Developement, built through the **ALX Backend Engineering Programme** and **1337 School** (part of the global 42 Network — one of the most selective engineering schools in The world).
-
-At ALX, I designed and shipped a fully functional e-commerce platform using Python, Django, and MySQL. At 1337, I studied software engineering fundamentals — low-level programming in C and C++, algorithms, memory management, Unix systems, Docker, and network engineering. I am currently completing the final project of the 1337 Common Core.
-
+Software Engineer with a strong foundation built across multiple rigorous programmes — ENSA Safi (National School of Applied Sciences), the ALX Backend Engineering Programme, and 1337 School (part of the global 42 Network — one of the most selective engineering schools in The world).
+At ENSA, I studied core engineering and computer science fundamentals. At ALX, I designed and shipped a fully functional e-commerce platform using Python, Django, and MySQL. At 1337, I deepened my software engineering skills through low-level programming in C and C++, algorithms, memory management, Unix systems, Docker, and network engineering. I am currently completing the final project of the 1337 Common Core.
 I write clean, maintainable code and I approach every problem with the same mindset: understand it deeply, break it down, and ship something that works.
-
 ---
 
 ### Stack
