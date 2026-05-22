@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/medob6/medob6/main/assets/header.png" alt="Mohamed Boussetta" style="width:100%; height:auto;">
-
 <h1 align="center">Mohamed Boussetta</h1>
 <p align="center">Full-Stack Developer &nbsp;·&nbsp; ALX Graduate &nbsp;·&nbsp; 1337 School (42 Network)</p>
 <p align="center">
